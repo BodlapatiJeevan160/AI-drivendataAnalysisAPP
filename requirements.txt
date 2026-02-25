@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
+plotly
 scikit-learn
 matplotlib
-seaborn
-plotly
+yfinance
